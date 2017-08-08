@@ -6,11 +6,8 @@
 
 ## Media Queries
 
-Aqui os medias que mais uso no desenvolvimento front-end
-
 ``` bash
-as vezes não será necessário a ultilização de todos medias, 
-tudo depende da necessidade e quantidade de conteudo no html.
+Muitas vezes não será necessário usar todos media queries
 ```
 
 
