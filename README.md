@@ -7,7 +7,7 @@
 ## Media Queries
 
 ``` bash
-Muitas vezes não será necessário usar todos media queries
+alguns medias queries pré-prontos.
 ```
 
 
