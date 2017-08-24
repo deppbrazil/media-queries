@@ -1,6 +1,6 @@
 # Media Queries
 
-# Deixando seu projeto responsivo com css puro
+## Deixando seu projeto responsivo com css puro
 
 * 320px  
 * 480px  
