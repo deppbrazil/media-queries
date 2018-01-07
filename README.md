@@ -1,12 +1,9 @@
-# Media Queries
+# CSS3
+## Some responsive CSS3 presets ##
 
-## Deixando seu projeto responsivo com css puro
-
-* 320px { }  
-* 480px { }
-* 600px { }  
-* 768px { }  
-* 992px { }  
-* 1382px { } 
-
-
+* `200px {...}`
+* `480px {...}`
+* `600px {...}`  
+* `768px {...}`  
+* `992px {...}`  
+* `1382px {...}` 
