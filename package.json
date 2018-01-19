@@ -1,0 +1,23 @@
+{
+  "name": "media-queries",
+  "version": "1.0.0",
+  "description": "media-queries css",
+  "main": "media_queries.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppbrazil/media-queries.git"
+  },
+  "keywords": [
+    "css",
+    "media-queries"
+  ],
+  "author": "Mir Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deppbrazil/media-queries"
+  },
+  "homepage": "https://github.com/deppbrazil/media-queries#readme"
+}
